@@ -37,10 +37,10 @@ Benefits:
    iv) Quality check takes place at the village collection centre and the farmers can claim their amount directly from there by simply showing the receipt of the order.<br>
 ## Technical Approach
 1. **Technologies to be used:** <br>
-   i)Front-end(app/website):Flutter or React Native for low-end phones.<br>
-   ii)Basic phone access:Interactive Voice Response `(IVR)` which is used to inform the farmer         `Eg.Press 1 to sell harvest which will then connect to a real-person to gather further         information.` <br>
-   iii)Backend & APIs:Node.js, Python (Django/FastAPI), or Java (Spring Boot) to handle user         profiles and  offline caching (using SQLite or PouchDB).<br>
-   iv)Payments & Verification: UPI,Aadhaar-enabled Payment System (AePS),IMPS for instant           direct-to-bank transfers.<br>
+   i)***Front-end(app/website):*** Flutter or React Native for low-end phones.<br>
+   ii)***Basic phone access:*** Interactive Voice Response `(IVR)` which is used to inform the farmer         `Eg.Press 1 to sell harvest which will then connect to a real-person to gather further         information.` <br>
+   iii)***Backend & APIs:*** Node.js, Python (Django/FastAPI), or Java (Spring Boot) to handle user         profiles and  offline caching (using SQLite or PouchDB).<br>
+   iv)***Payments & Verification:*** UPI,Aadhaar-enabled Payment System (AePS),IMPS for instant           direct-to-bank transfers.<br>
 2. **Methodology and process for implementation:** <br>
    <img width="1130" height="1600" alt="mindmap sih" src="https://github.com/user-attachments/assets/32995e5c-b52b-4340-a09b-82f4f4d94ba0" />
 
