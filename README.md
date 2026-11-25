@@ -30,10 +30,10 @@ Benefits:
    we can build a digital marketplace eliminating the mediators by directly buying goods from farmers which will be benefit for both consumers and farmers by involving Farmer-Producer-Organizations(FPO).<br>
 2.**The constraints:**
    Not every farmers have smart mobiles some can have basic telephone but we can still involve them in our digital workplace. We can provide customer care based service by issuing a toll-free number and they can simply dial it and register in the workplace with necessary information.<br>
-3.**Procedure:**
-   i) If the farmer has smartmobile they can simply register in it, if they don't have one           they can still register in the workplace by dialing the toll-free number.
-   ii) The Farmer can sell their harvest which will be updated in the workplace/app.
-   iii) When a customer places an order, The farmer receives an SMS notification/call                  regarding the order.
+   3.**Procedure:**
+   i) If the farmer has smartmobile they can simply register in it, if they don't have one           they can still register in the workplace by dialing the toll-free number.<br>
+   ii) The Farmer can sell their harvest which will be updated in the workplace/app.<br>
+   iii) When a customer places an order, The farmer receives an SMS notification/call                  regarding the order.<br>
    iv) Quality check takes place at the village collection centre and the farmers can claim their amount directly from there by simply showing the receipt of the order.<br>
 ## Technical Approach
 1. **Technologies to be used:**
