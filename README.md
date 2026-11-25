@@ -27,7 +27,7 @@ Benefits:
 
 ## Proposed Solution
 1. Brief Explanation:
-   we can build a digital marketplace eliminating the mediators by directly buying goods from farmers which will be benefit for both consumers and farmers by involving Farmer-Producer-Organizations(FPO).
+   we can build a digital marketplace eliminating the mediators by directly buying goods from farmers which will be benefit for both consumers and farmers by involving Farmer-Producer-Organizations(FPO).<br>
 2.The constraints:
    Not every farmers have smart mobiles some can have basic telephone but we can still involve them in our digital workplace. We can provide customer care based service by issuing a toll-free number and they can simply dial it and register in the workplace with necessary information.
 3.Procedure:
